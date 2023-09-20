@@ -1,3 +1,31 @@
-Header img {
-  width: 50%;
+ul,
+ol,
+dl {
+  list-style: none;
+}
+
+.Topbanner {
+  line-height: 17px;
+  font-size: 12px;
+  vertical-align: middle;
+}
+.Topbanner .container ul{
+  justify-content: right;
+}
+
+.Header {
+  background-color: skyblue;
+  line-height: 50px;
+}
+.container {
+  display: flex;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+ul {
+  display: flex;
+  margin: 0 auto;
+  vertical-align: middle;
+  gap: 50px;
 }
