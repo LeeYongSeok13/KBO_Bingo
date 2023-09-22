@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/KBO_Bingo/static/css/main.23ac9d21.css",
-    "main.js": "/KBO_Bingo/static/js/main.f0402b07.js",
+    "main.css": "/KBO_Bingo/static/css/main.101570a9.css",
+    "main.js": "/KBO_Bingo/static/js/main.ed172332.js",
     "index.html": "/KBO_Bingo/index.html",
-    "main.23ac9d21.css.map": "/KBO_Bingo/static/css/main.23ac9d21.css.map",
-    "main.f0402b07.js.map": "/KBO_Bingo/static/js/main.f0402b07.js.map"
+    "main.101570a9.css.map": "/KBO_Bingo/static/css/main.101570a9.css.map",
+    "main.ed172332.js.map": "/KBO_Bingo/static/js/main.ed172332.js.map"
   },
   "entrypoints": [
-    "static/css/main.23ac9d21.css",
-    "static/js/main.f0402b07.js"
+    "static/css/main.101570a9.css",
+    "static/js/main.ed172332.js"
   ]
 }
