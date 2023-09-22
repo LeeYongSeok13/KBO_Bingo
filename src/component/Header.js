@@ -6,7 +6,7 @@ import Navbar from "react-bootstrap/Navbar";
 
 function Header() {
   return (
-    <Navbar bg="light" data-bs-theme="light">
+    <Navbar bg="light" data-bs-theme="light" className="Header">
       <Container fluid>
         <Navbar.Brand href="#home">KBO_Bingo</Navbar.Brand>
         <Nav className="me-auto">
